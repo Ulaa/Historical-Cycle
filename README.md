@@ -11,8 +11,8 @@ AI Artathon 2.0 Submission
 <p align="center">Generating new Art compositions using AI for AI Artathon 2.0</p>
 
 
-Historical cycle: is an animated experimental project inspired by the cyclical motion of tawaf. This project uses various animation techniques to represent the diverse culture within this city and how gentrification affected the locals’ lives throughout history.
-This project will use AI for creating morphing animation to illustrate this idea with a fresh and creative abstract perspective.
+This project uses StyleGan2  to generate images and create morphing motions that represent the historical changes in Mecca city by using Google Colab with Python code and  Runway ML. Latent space (Deep Learning utility) that learns the features of data and interpolate between points in this space to create intermediate outputs and find patterns. In addition to that, training multiple datasets which includes different elements of the city such as buildings and mountains in Mecca.
+
 
 ## Links
 
@@ -37,7 +37,7 @@ This project uses StyleGan2  to generate images and create morphing motions that
 
 
 ## Collected Dataset 📜
-- Over 150,000 images were scraped from Google.
+- Over 100,000 images were scraped from Google.
 
 ## Resources
 
