@@ -11,7 +11,7 @@ AI Artathon 2.0 Submission
 <p align="center">Generating new Art compositions using AI for AI Artathon 2.0</p>
 
 
-This project uses StyleGan2  to generate images and create morphing motions that represent the historical changes in Mecca city by using Google Colab with Python code and  Runway ML. Latent space (Deep Learning utility) that learns the features of data and interpolate between points in this space to create intermediate outputs and find patterns. In addition to that, training multiple datasets which includes different elements of the city such as buildings and mountains in Mecca.
+Historical cycle:  An AI Art Project that showcases the development of Makkah and how gentrification has affected the city's life throughout history. Following a similar method of creating the repetition in the Islamic art style, this project displays moving images in repetitive patterns cycling around each other and expanding over time. These rings represent different parts of Macca as the transformation occurs. 
 
 
 ## Links
@@ -33,7 +33,7 @@ https://drive.google.com/drive/folders/1XV0h-Z_VqKmJvzaUcLmH7cbNKPcOaBSh?usp=sha
 - Laten Space
 - RunwayML
 
-This project uses StyleGan2  to generate images and create morphing motions that represent the historical changes in Mecca city by using Google Colab with Python code and  Runway ML. Latent space (Deep Learning utility) that learns the features of data and interpolate between points in this space to create intermediate outputs and find patterns. Training of multiple datasets which includes different elements of the city such as buildings and mountains of Mecca.
+This project uses StyleGan2  to generate images and create morphing motions that represent the historical changes in Mecca city by using Google Colab with Python code and  Runway ML. Latent space (Deep Learning utility) that learns the features of data and interpolate between points in this space to create intermediate outputs and find patterns. In addition to that, training multiple datasets which includes different elements of the city such as buildings and mountains in Mecca.
 
 
 ## Collected Dataset 📜
