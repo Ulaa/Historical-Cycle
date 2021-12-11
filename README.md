@@ -39,6 +39,8 @@ This project uses StyleGan2  to generate images and create morphing motions that
 ## Collected Dataset 📜
 - Around 100-200 images for each datase images were scraped from Google. 
 
+![Teaser image](./StyleGan-tester.jpg)
+
 
 ## Resources
 
