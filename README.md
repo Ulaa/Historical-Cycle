@@ -14,8 +14,8 @@ AI Artathon 2.0 Submission
 Historical cycle:  An AI Art Project that showcases the changes of Macca due to and how gentrification unfolding in the has affected the city's life throughout history. Following a similar method of creating the repetition in the Islamic art style, this project displays moving images in repetitive patterns cycling around each other and expanding over time. These rings represent different parts of Macca as the historical transformation overtimes. 
 
 
-<p align="center">![Teaser image](./historical.jpg)</p>
-![Teaser image](./cycle.jpg)
+![Teaser image](./historical.png)
+
 
 
 
