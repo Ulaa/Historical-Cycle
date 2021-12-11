@@ -1,6 +1,5 @@
 ﻿# Copyright (c) 2019, NVIDIA CORPORATION. All rights reserved.
-#
-# This work is licensed under the Creative Commons Attribution-NonCommercial
+
 
 
 """Helper for launching run functions in computing clusters.
