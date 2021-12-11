@@ -37,11 +37,11 @@ Additional material can be found on Google Drive:
 
 **Ulaa Al-Haddad**
 
-- [Profile](https://github.com/Ulaa Alhaddad)
+- [Profile](https://github.com/Ulaa)
 
 **Raghad Albarqi**
 
-- [Profile](https://github.com/Raghad Albarqi)
+- [Profile](https://github.com/Raghad )
 
 
 
