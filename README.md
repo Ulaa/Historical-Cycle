@@ -40,6 +40,7 @@ This project uses StyleGan2  to generate images and create morphing motions that
 ## Resources
 
 - Paper: https://arxiv.org/abs/1812.04948
+- Code: https://github.com/NVlabs/stylegan
 
 
 
