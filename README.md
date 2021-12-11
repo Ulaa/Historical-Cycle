@@ -60,7 +60,9 @@ This project uses StyleGan2  to generate images and create morphing motions that
 
 
 
-   
+  ## 🎆 
+
+Give a ⭐️ if you like this project! 
 
 
   
