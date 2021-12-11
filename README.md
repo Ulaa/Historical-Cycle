@@ -41,7 +41,7 @@ Additional material can be found on Google Drive:
 
 **Raghad Albarqi**
 
-- [Profile](https://github.com/Raghad )
+- [Profile](https://github.com/Raghadalbarqi)
 
 
 
