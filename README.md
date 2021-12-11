@@ -11,7 +11,7 @@ AI Artathon 2.0 Submission
 <p align="center">Generating new Art compositions using AI for AI Artathon 2.0</p>
 
 
-Historical cycle:  An AI Art Project that showcases the development of Makkah and how gentrification has affected the city's life throughout history. Following a similar method of creating the repetition in the Islamic art style, this project displays moving images in repetitive patterns cycling around each other and expanding over time. These rings represent different parts of Macca as the transformation occurs. 
+Historical cycle:  An AI Art Project that showcases the changes of Macca due to and how gentrification unfolding in the has affected the city's life throughout history. Following a similar method of creating the repetition in the Islamic art style, this project displays moving images in repetitive patterns cycling around each other and expanding over time. These rings represent different parts of Macca as the historical transformation overtimes. 
 
 
 ## Links
